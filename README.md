@@ -1,7 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="http://thietkewebwio.com/wp-content/uploads/Logo-dai-nam-1.png" width="150"> </p> <br>
-
+    <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/logoDaiNam.png" width="150"> </p> <br>
 </br> </div>
 # 🏋️‍♂️ AI Fitness Coach
 
