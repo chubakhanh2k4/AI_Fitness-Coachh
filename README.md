@@ -1,3 +1,8 @@
+<div align="center">
+  <p align="center">
+    <img src="http://thietkewebwio.com/wp-content/uploads/Logo-dai-nam-1.png" width="150"> </p> <br>
+
+</br> </div>
 # 🏋️‍♂️ AI Fitness Coach
 
 **AI Fitness Coach** là một ứng dụng web được xây dựng bằng **Streamlit** và **OpenAI API**, giúp người dùng nhận gợi ý **lịch tập thể hình cá nhân hóa** dựa trên thông tin thể trạng và mục tiêu luyện tập.
