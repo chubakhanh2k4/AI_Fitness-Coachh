@@ -1,8 +1,13 @@
+
+# 🏋️‍♂️ AI Fitness Coach
 <div align="center">
   <p align="center">
     <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/logoDaiNam.png" width="150"> </p> <br>
+
+
+
+
 </br> </div>
-# 🏋️‍♂️ AI Fitness Coach
 
 **AI Fitness Coach** là một ứng dụng web được xây dựng bằng **Streamlit** và **OpenAI API**, giúp người dùng nhận gợi ý **lịch tập thể hình cá nhân hóa** dựa trên thông tin thể trạng và mục tiêu luyện tập.
 
